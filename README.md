@@ -47,9 +47,17 @@ var youssif = new Developer
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+
+**Architecture & Design Patterns**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-%2300FF9C?style=flat-square&logoColor=white)
+![Onion Architecture](https://img.shields.io/badge/Onion_Architecture-%2300FF9C?style=flat-square&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-%2300FF9C?style=flat-square&logoColor=white)
+![Unit of Work](https://img.shields.io/badge/Unit_of_Work-%2300FF9C?style=flat-square&logoColor=white)
 
 ---
 
