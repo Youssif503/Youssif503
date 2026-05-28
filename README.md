@@ -1,86 +1,84 @@
 <div align="center">
 
-```
-██╗   ██╗ ██████╗ ██╗   ██╗███████╗███████╗██╗███████╗
-╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██║██╔════╝
- ╚████╔╝ ██║   ██║██║   ██║███████╗███████╗██║█████╗  
-  ╚██╔╝  ██║   ██║██║   ██║╚════██║╚════██║██║██╔══╝  
-   ██║   ╚██████╔╝╚██████╔╝███████║███████║██║██║     
-   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝╚═╝     
-```
+# Youssif Sayed Hussain
 
-### `Youssif Sayed` — Back-End Engineer
+### Backend Developer | ASP.NET Core
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=ASP.NET+Core+%7C+C%23+%7C+Clean+Architecture;Building+scalable+back-end+systems;3rd+Year+Software+Engineering+Student;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+Building scalable backend applications and RESTful APIs using the .NET ecosystem.
 
 </div>
 
 ---
 
-## `> whoami`
+## Profile
 
-```csharp
-var youssif = new Developer
-{
-    Name        = "Youssif Sayed",
-    University  = "Beni Suef Technological University",
-    Year        = "3rd Year — Software Engineering",
-    Role        = "Junior Back-End Developer",
-    Passion     = new[] { "Clean Code", "Scalable Systems", "Problem Solving" },
-    CurrentFocus = "ASP.NET Core & System Design"
-};
-```
+Backend developer with a strong interest in software engineering, backend architecture, and database systems.
+Focused on building clean, maintainable, and production-ready applications using ASP.NET Core and modern backend development practices.
+
+Currently expanding expertise in API development, database optimization, caching systems, and scalable application design.
 
 ---
 
-## `> tech --stack`
+## Technical Skills
 
-**Languages**
+### Backend Technologies
 
-![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+* ASP.NET Core Web API
+* Entity Framework Core
+* LINQ
+* RESTful API Development
+* Authentication & Authorization
+* JWT Authentication
 
-**Frameworks & Tools**
+### Databases & Caching
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+* SQL Server
+* Redis
 
-**Architecture & Design Patterns**
+### Programming Languages
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-%2300FF9C?style=flat-square&logoColor=white)
-![Onion Architecture](https://img.shields.io/badge/Onion_Architecture-%2300FF9C?style=flat-square&logoColor=white)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-%2300FF9C?style=flat-square&logoColor=white)
-![Unit of Work](https://img.shields.io/badge/Unit_of_Work-%2300FF9C?style=flat-square&logoColor=white)
+* C#
+* SQL
+* C++
+* Python
 
----
+### Software Engineering
 
-## `> problem-solving --platforms`
+* Object-Oriented Programming (OOP)
+* SOLID Principles
+* Design Patterns
+* Layered Architecture
+* Clean Architecture
+* Unit Testing
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-0xJoeSayed-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/0xJoeSayed/)
+### Tools
 
----
-
-## `> connect --social`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssif_Sayed-%230a77b6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swe-youssifsayed)
-[![Twitter](https://img.shields.io/badge/Twitter-@0xJoeSayed-%230f1419?style=flat-square&logo=x&logoColor=white)](https://twitter.com/0xJoeSayed)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssif503&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssif503&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=ffffff" height="150"/>
-</div>
+* Git & GitHub
+* Postman
+* Visual Studio
+* Rider
+* SSMS
 
 ---
 
-<div align="center">
-  <sub>⚡ "Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected." — Robert C. Martin</sub>
-</div>
+## Current Focus
+
+* Developing scalable backend systems
+* Improving software architecture and design skills
+* Deepening knowledge of database internals and performance optimization
+* Strengthening problem-solving and algorithmic thinking
+
+---
+
+## Education
+
+**Beni-Suef Technological University**
+Bachelor of Technology in Computer Science
+2023 — 2027
+
+---
+
+## Contact
+
+* GitHub: github.com/Youssif503
+* Email: [youssifsayeddd@gmail.com](mailto:youssifsayeddd@gmail.com)
