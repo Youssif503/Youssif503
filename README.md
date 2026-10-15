@@ -1,84 +1,65 @@
-<div align="center">
-
 # Youssif Sayed Hussain
 
-### Backend Developer | ASP.NET Core
+**Software Engineer | Backend & Full-Stack Developer**
 
-Building scalable backend applications and RESTful APIs using the .NET ecosystem.
+I'm Youssif Sayed Hussain, an Information Technology student at Beni-Suef Technological University. I mainly work with .NET and modern web technologies, building backend APIs and full-stack applications.
 
-</div>
-
----
-
-## Profile
-
-Backend developer with a strong interest in software engineering, backend architecture, and database systems.
-Focused on building clean, maintainable, and production-ready applications using ASP.NET Core and modern backend development practices.
-
-Currently expanding expertise in API development, database optimization, caching systems, and scalable application design.
+I'm interested in clean architecture, system design, database performance, and understanding how reliable software systems work under the hood.
 
 ---
 
 ## Technical Skills
 
-### Backend Technologies
+### Languages
 
-* ASP.NET Core Web API
-* Entity Framework Core
-* LINQ
-* RESTful API Development
-* Authentication & Authorization
-* JWT Authentication
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,python&theme=dark" alt="C#, C++, C, JavaScript, and Python" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark" alt=".NET, Node.js, and Express" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,html,css&theme=dark" alt="Angular, HTML, and CSS , Tailwind" />
+</p>
 
 ### Databases & Caching
 
-* SQL Server
-* Redis
+<p>
+  <img src="https://skillicons.dev/icons?i=mssql,postgres,sqlite,redis&theme=dark" alt="SQL Server, PostgreSQL, SQLite, and Redis" />
+</p>
 
-### Programming Languages
+### DevOps & Tools
 
-* C#
-* SQL
-* C++
-* Python
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman,ci-cd&theme=dark" alt="Docker, Kubernetes, Git, GitHub, Linux, and Postman , ci-cd" />
+</p>
 
-### Software Engineering
+### Core Concepts
 
-* Object-Oriented Programming (OOP)
-* SOLID Principles
-* Design Patterns
-* Layered Architecture
-* Clean Architecture
-* Unit Testing
-
-### Tools
-
-* Git & GitHub
-* Postman
-* Visual Studio
-* Rider
-* SSMS
+Clean Architecture · OOP · SOLID · Design Patterns · REST APIs · CQRS · Database Transactions · Caching · System Design · Distributed Systems
 
 ---
 
-## Current Focus
+## Currently Exploring
 
-* Developing scalable backend systems
-* Improving software architecture and design skills
-* Deepening knowledge of database internals and performance optimization
-* Strengthening problem-solving and algorithmic thinking
-
----
-
-## Education
-
-**Beni-Suef Technological University**
-Bachelor of Technology in Computer Science
-2023 — 2027
+- Scalable backend architecture and system design
+- Database concurrency and performance optimization
+- Distributed systems and caching strategies
+- AI integration in software applications
 
 ---
 
 ## Contact
 
-* GitHub: github.com/Youssif503
-* Email: [youssifsayeddd@gmail.com](mailto:youssifsayeddd@gmail.com)
+- **LinkedIn:** [linkedin.com/in/swe-youssifsayed](https://linkedin.com/in/swe-youssifsayed/)
+- **GitHub:** [github.com/Youssif503](https://github.com/Youssif503)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Youssif503&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</div>
