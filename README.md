@@ -59,6 +59,7 @@ Clean Architecture · OOP · SOLID · Design Patterns · REST APIs · CQRS · Da
 
 - **LinkedIn:** [linkedin.com/in/swe-youssifsayed](https://linkedin.com/in/swe-youssifsayed/)
 - **GitHub:** [github.com/Youssif503](https://github.com/Youssif503)
+- **X:** .[https://x.com/uwk_usef]
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Youssif503&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
